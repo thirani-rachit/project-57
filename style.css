@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background:linear-gradient(#34ebde 0%,#ff475a 100%);
+}
+
+
+    .line{
+        height: 5px;
+        width: 200px;
+        background-color: black;
+        margin: auto;
+    }  
